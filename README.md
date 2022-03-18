@@ -11,4 +11,4 @@ Special thanks to top congtributor **[@gigafide](https://github.com/gigafide)**
 
 ## Usage Instructions
 
-1. Download the [Executable](dist/convert_islandora.exe) (located in the **dist** folder)
+1. Download the [Executable](dist) (located in the **dist** folder)
