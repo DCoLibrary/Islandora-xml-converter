@@ -43,7 +43,6 @@ This specific version of the script updates to Python 3 and adds a Tkinter GUI a
 ```
 pip install lxml
 ```
-![image](https://user-images.githubusercontent.com/98832967/159059625-519a3a05-20bb-428e-88bc-192b71a4c92b.png)
 
 4. Next, either git clone or download this repository to your desktop
 
