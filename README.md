@@ -35,14 +35,18 @@ This specific version of the script updates to Python 3 and adds a Tkinter GUI a
 ## Editing/Modifying Instructions
 ### Pre-requisits - Setting up the environment
 1. Download the latest version of [Python 3](https://www.python.org/downloads/)
+
 2. Double-click to launch the installer. Make sure **Add Python 3.10 to PATH** is checked before clicking *Install Now*
 ![image](https://user-images.githubusercontent.com/98832967/159059563-3d9fe067-bdc4-464c-bf5e-b395a5e7c2be.png)
+
 3. After installation, open up a command prompt and install the **lxml** library by typing
 ```
 pip install lxml
 ```
 ![image](https://user-images.githubusercontent.com/98832967/159059625-519a3a05-20bb-428e-88bc-192b71a4c92b.png)
+
 4. Next, either git clone or download this repository to your desktop
+
 5. Test that the script runs wihtout errors by navigating to the folder where the python script is located and running 
 ```
 python convert_islandora.py
