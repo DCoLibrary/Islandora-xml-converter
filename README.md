@@ -46,9 +46,29 @@ pip install lxml
 
 4. Next, either git clone or download this repository to your desktop
 
-5. Test that the script runs wihtout errors by navigating to the folder where the python script is located and running 
+5. Test that the script runs wihtout errors by using the command prompt window to navigate to the directory where the python script is located and running 
 ```
 python convert_islandora.py
+```
+6. Assuming there are no errors in running the python script, you can procede to make changes as necessary.
+
+### Creating an executable from the python script
+1. Converting the script to an executable is made possible by [PyInstaller](https://pyinstaller.readthedocs.io/en/stable/)
+2. To install Pyinstaller, open up a command prompt and run this command
+```
+pip install pyinstaller
+```
+
+3. Within the command prompt window, navigate to the directory your python script is located in.
+4. Run this command to create a specifications file for the installer to use
+```
+pyi-makespec --onefile NAME_OF_SCRIPT.py
+```
+
+5. This will create a .spec file with using the name of your script in the same folder as your script.
+6. Now you can run the command below (pointing to the newly created spec file) to create the executable.
+```
+pyinstaller NAME_OF_SCRIPT.spec
 ```
 
 ### Top contributors: 
