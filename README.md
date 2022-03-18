@@ -16,16 +16,18 @@ This specific version of the script updates to Python 3 and adds a Tkinter GUI a
 <p align="center">
   <img alt="Image of Executable Icon" src="https://user-images.githubusercontent.com/2020580/159050066-9170324c-3b7b-4b34-b602-925c44a6a72c.png">
 </p>
+
 3. Click the *Open File* button. Use the file browser choose your OpenRefine XML file.
 <p align="center">
   <img alt="Image of opening file" width="500" src="https://user-images.githubusercontent.com/2020580/159051087-28ab52b1-97b7-48ea-85a9-e0bb63ca9771.png">
 </p>
+
 4. Once selected, click on the *Convert* button. Use the file browser to choose a folder in which to place the outputted files.
 <p align="center">
   <img alt="Image of converting file" width="500" src="https://user-images.githubusercontent.com/2020580/159051548-bf14eff6-b15d-4c1f-9ae8-ef2a0d58bdc8.png">
 </p>
+
 5. After the output folder is selected, the program will automatically create individual XML files from the OpenRefine data. Status can be viewed in the executable terminal
-![image]()
 <p align="center">
   <img alt="Image of final output" width="500" src="https://user-images.githubusercontent.com/2020580/159051785-d8ff46b9-1ed2-4798-a5b8-a454f97b83f2.png">
 </p>
