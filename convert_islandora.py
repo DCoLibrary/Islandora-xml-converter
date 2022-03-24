@@ -97,7 +97,7 @@ def convert_xml():
             #with open(output_path+filename, 'wb') as f:
             with open(completename, 'w') as f:
                 f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-                f.write(ET.tostring(elem, pretty_print = True, encoding='unicode'))
+                f.write(ET.tostring(elem, pretty_print = True, encoding='utf-8'))
             print("Writing", filename)
 
     # remove the intermediate file
