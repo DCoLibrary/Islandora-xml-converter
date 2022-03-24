@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Supporters and Opponents at Wallace-for-President Rally</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Boyarsky, Bill</namePart>
+  </name>
+  <originInfo>
+    <dateCreated>1968</dateCreated>
+  </originInfo>
+  <originInfo>
+    <dateCreated encoding="EDTF" keyDate="yes">1968</dateCreated>
+  </originInfo>
+  <subject authority="lcnaf">
+    <geographic>Durham County (N.C.)</geographic>
+  </subject>
+  <subject>
+    <topic>Civil rights demonstrations--North Carolina--Durham</topic>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>Wallace, George C. (George Corley), 1919-1998</namePart>
+    </name>
+  </subject>
+  <typeOfResource authority="dcmitype">Image</typeOfResource>
+  <physicalDescription>
+    <form authority="aat">photographs</form>
+  </physicalDescription>
+  <identifier type="FileName">NCC_0040_0009</identifier>
+  <identifier type="Legacy">CRB009; Boyarsky-08; DCRH 009</identifier>
+  <accessCondition xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated: http://rightsstatements.org/vocab/CNE/1.0/</accessCondition>
+  <note type="preferred citation" displayLabel="Preferred Citation">Item description, identifier (if applicable), Box and Folder information. Durham Civil Rights Heritage Project (NCC.0040). North Carolina Collection, Durham County Library, NC.</note>
+</mods>

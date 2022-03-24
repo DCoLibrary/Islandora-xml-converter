@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Photograph of Royal Ice Cream Sit-in Participants</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Unknown</namePart>
+  </name>
+  <abstract>Pictured here is the group which was arrested and convicted of trespassing in Durham last Saturday when they entered the Royal Ice Cream Company from the side used by whites only. Left to right, front row, are Mary Clyburn, Virginia Williams, Rev. Douglas E. Moore, Vivian Jones. Back row, same order, are Jesse Gray, Claude Glenn, and Melvin H. Willis.  Nation's first sit-in case.</abstract>
+  <originInfo>
+    <dateCreated encoding="EDTF" keyDate="yes">1957</dateCreated>
+  </originInfo>
+  <subject authority="lcnaf">
+    <geographic>Durham County (N.C.)</geographic>
+  </subject>
+  <subject>
+    <topic>Civil rights demonstrations--North Carolina--Durham</topic>
+  </subject>
+  <typeOfResource authority="dcmitype">Image</typeOfResource>
+  <physicalDescription>
+    <form authority="aat">photographs</form>
+  </physicalDescription>
+  <identifier type="FileName">NCC_0040_0125</identifier>
+  <identifier type="Legacy">WilliamsL-2-3</identifier>
+  <accessCondition xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated: http://rightsstatements.org/vocab/CNE/1.0/</accessCondition>
+  <note type="preferred citation" displayLabel="Preferred Citation">Item description, identifier (if applicable), Box and Folder information. Durham Civil Rights Heritage Project (NCC.0040). North Carolina Collection, Durham County Library, NC.</note>
+</mods>

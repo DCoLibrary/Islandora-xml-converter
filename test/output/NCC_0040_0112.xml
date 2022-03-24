@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Selective Buying Campaign Boycott Flyer</title>
+  </titleInfo>
+  <name type="organization">
+    <namePart>Black Solidarity Committee for Community Improvement</namePart>
+  </name>
+  <abstract>Northgate Shopping Center, and downtown branches of businesses located there, were the first target of the Black Solidarity Committee's boycott in July 1968. By the middle of August, 14 other firms had been added to its do-not-patronize list as the committee sought to pressure the chamber of commerce and Durham Merchants Association to use their influence on behalf of its demands. </abstract>
+  <originInfo>
+    <dateCreated encoding="EDTF" keyDate="yes">1968</dateCreated>
+  </originInfo>
+  <subject authority="lcnaf">
+    <geographic>Durham County (N.C.)</geographic>
+  </subject>
+  <subject>
+    <topic>Civil rights demonstrations--North Carolina--Durham</topic>
+  </subject>
+  <typeOfResource authority="dcmitype">Text</typeOfResource>
+  <physicalDescription>
+    <form authority="aat">Flyer</form>
+  </physicalDescription>
+  <identifier type="FileName">NCC_0040_0112</identifier>
+  <identifier type="Legacy">Mayo3; cr040</identifier>
+  <accessCondition xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <note type="preferred citation" displayLabel="Preferred Citation">Item description, identifier (if applicable), Box and Folder information. Durham Civil Rights Heritage Project (NCC.0040). North Carolina Collection, Durham County Library, NC.</note>
+</mods>

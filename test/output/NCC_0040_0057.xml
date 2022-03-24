@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Policemen at Allen Building Takeover</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Moore, Harold</namePart>
+  </name>
+  <abstract>Duke students take over the Allen Building on west campus.  Members of the N.C. Highway Patrol and the Durham Police with riot sticks and tear gas gun in hand, stand in front of side entrance to the Allen Building on Duke's west campus.</abstract>
+  <originInfo>
+    <dateCreated encoding="EDTF" keyDate="yes">2/13/1969</dateCreated>
+  </originInfo>
+  <subject authority="lcnaf">
+    <geographic>Durham County (N.C.)</geographic>
+  </subject>
+  <subject>
+    <topic>Civil rights demonstrations--North Carolina--Durham</topic>
+  </subject>
+  <typeOfResource authority="dcmitype">Image</typeOfResource>
+  <physicalDescription>
+    <form authority="aat">photographs</form>
+  </physicalDescription>
+  <identifier type="FileName">NCC_0040_0057</identifier>
+  <identifier type="Legacy">CRH051; DCRH 051</identifier>
+  <accessCondition xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <accessCondition displayLabel="Usage Statement">This image is part of the Durham Herald Co. Newspaper Photograph Collection at Wilson Library at the University of North Carolina at Chapel Hill.  Permission to use this image must be obtained from Wilson Library.</accessCondition>
+  <note type="preferred citation" displayLabel="Preferred Citation">Item description, identifier (if applicable), Box and Folder information. Durham Civil Rights Heritage Project (NCC.0040). North Carolina Collection, Durham County Library, NC.</note>
+</mods>

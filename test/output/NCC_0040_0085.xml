@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Martin Luther King, Jr. at Hillside High School</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Sparks, Jim (James H.), 1926-2016</namePart>
+  </name>
+  <abstract>In one of his earlier visits to Durham, Martin Luther King, Jr., addresses the student body of Hillside High School.</abstract>
+  <originInfo>
+    <dateCreated encoding="EDTF" keyDate="yes">10/15/1956</dateCreated>
+  </originInfo>
+  <subject authority="lcnaf">
+    <geographic>Durham County (N.C.)</geographic>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
+    </name>
+  </subject>
+  <typeOfResource authority="dcmitype">Image</typeOfResource>
+  <physicalDescription>
+    <form authority="aat">photographs</form>
+  </physicalDescription>
+  <identifier type="FileName">NCC_0040_0085</identifier>
+  <identifier type="Legacy">CRH079; DCRH 079; cr047</identifier>
+  <accessCondition xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <accessCondition displayLabel="Usage Statement">This image is part of the Durham Herald Co. Newspaper Photograph Collection at Wilson Library at the University of North Carolina at Chapel Hill.  Permission to use this image must be obtained from Wilson Library.</accessCondition>
+  <note type="preferred citation" displayLabel="Preferred Citation">Item description, identifier (if applicable), Box and Folder information. Durham Civil Rights Heritage Project (NCC.0040). North Carolina Collection, Durham County Library, NC.</note>
+</mods>

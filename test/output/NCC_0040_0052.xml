@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Malcolm X Liberation School Protesters March at Allen Building Takeover</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Moore, Harold</namePart>
+  </name>
+  <abstract>Black students leave the campus after vacating the Allen Administration Building in the wake of its takeover to protest the campus racial climate. </abstract>
+  <originInfo>
+    <dateCreated encoding="EDTF" keyDate="yes">1969</dateCreated>
+  </originInfo>
+  <subject authority="lcnaf">
+    <geographic>Durham County (N.C.)</geographic>
+  </subject>
+  <subject>
+    <topic>Civil rights demonstrations--North Carolina--Durham</topic>
+  </subject>
+  <typeOfResource authority="dcmitype">Image</typeOfResource>
+  <physicalDescription>
+    <form authority="aat">photographs</form>
+  </physicalDescription>
+  <identifier type="FileName">NCC_0040_0052</identifier>
+  <identifier type="Legacy">CRH046; DCRH 046; cr019</identifier>
+  <accessCondition xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <accessCondition displayLabel="Usage Statement">This image is part of the Durham Herald Co. Newspaper Photograph Collection at Wilson Library at the University of North Carolina at Chapel Hill.  Permission to use this image must be obtained from Wilson Library.</accessCondition>
+  <note type="preferred citation" displayLabel="Preferred Citation">Item description, identifier (if applicable), Box and Folder information. Durham Civil Rights Heritage Project (NCC.0040). North Carolina Collection, Durham County Library, NC.</note>
+</mods>

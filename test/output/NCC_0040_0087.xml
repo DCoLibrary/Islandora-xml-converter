@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Martin Luther King, Jr. and others walking on Main Street</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Thornton, Jim</namePart>
+  </name>
+  <abstract>Martin Luther King, Jr. walks along West Main Street toward Woolworth. From left to right: Douglas Moore, pastor of the Asbury Temple Methodist Church in Durham; King; and Ralph Abernathy. The person on the far right may be Lacy Streeter, student at North Carolina Central University.</abstract>
+  <originInfo>
+    <dateCreated encoding="EDTF" keyDate="yes">2/2/1960</dateCreated>
+  </originInfo>
+  <subject authority="lcnaf">
+    <geographic>Durham County (N.C.)</geographic>
+  </subject>
+  <subject>
+    <topic>Civil rights demonstrations--North Carolina--Durham</topic>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>King, Martin Luther, Jr., 1929-1969</namePart>
+    </name>
+  </subject>
+  <typeOfResource authority="dcmitype">Image</typeOfResource>
+  <physicalDescription>
+    <form authority="aat">photographs</form>
+  </physicalDescription>
+  <identifier type="FileName">NCC_0040_0087</identifier>
+  <identifier type="Legacy">CRH081; DCRH 081</identifier>
+  <accessCondition xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <accessCondition displayLabel="Usage Statement">This image is part of the Durham Herald Co. Newspaper Photograph Collection at Wilson Library at the University of North Carolina at Chapel Hill.  Permission to use this image must be obtained from Wilson Library.</accessCondition>
+  <note type="preferred citation" displayLabel="Preferred Citation">Item description, identifier (if applicable), Box and Folder information. Durham Civil Rights Heritage Project (NCC.0040). North Carolina Collection, Durham County Library, NC.</note>
+</mods>
