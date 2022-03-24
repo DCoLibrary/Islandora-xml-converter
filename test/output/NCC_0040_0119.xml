@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Article From New Orleans Times-Picayunne About School Desegregation</title>
+  </titleInfo>
+  <name type="organization">
+    <namePart>New Orleans Times-Picayunne</namePart>
+  </name>
+  <originInfo>
+    <dateCreated encoding="EDTF" keyDate="yes">2001</dateCreated>
+  </originInfo>
+  <subject authority="lcnaf">
+    <geographic>New Orleans (L.A.)</geographic>
+  </subject>
+  <subject>
+    <topic>School integration --Louisiana-- New Orleans</topic>
+  </subject>
+  <typeOfResource authority="dcmitype">Text</typeOfResource>
+  <physicalDescription>
+    <form authority="aat">clippings (information artifact)</form>
+  </physicalDescription>
+  <identifier type="FileName">NCC_0040_0119</identifier>
+  <identifier type="Legacy">NuchurchPhyllis-2a; DCRH 090</identifier>
+  <accessCondition xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <note type="preferred citation" displayLabel="Preferred Citation">Item description, identifier (if applicable), Box and Folder information. Durham Civil Rights Heritage Project (NCC.0040). North Carolina Collection, Durham County Library, NC.</note>
+</mods>

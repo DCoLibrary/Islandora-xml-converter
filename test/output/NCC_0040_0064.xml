@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Martin Luther King, Jr. at White Rock Baptist Church</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Moore, Harold</namePart>
+  </name>
+  <abstract>After Martin Luther King visited the segregated lunch counter at Woolworth's department store in downtown Durham. Moore covered the civil right's leader's speech that night at the old White Rock Baptist Church on Fayetteville Street. \"He wasn't drawing media attention that much then,\" Moore said. \"As far as I recall I was the only photographer there.\"</abstract>
+  <originInfo>
+    <dateCreated encoding="EDTF" keyDate="yes">2/16/1960</dateCreated>
+  </originInfo>
+  <subject authority="lcnaf">
+    <geographic>Durham County (N.C.)</geographic>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
+    </name>
+  </subject>
+  <typeOfResource authority="dcmitype">Image</typeOfResource>
+  <physicalDescription>
+    <form authority="aat">photographs</form>
+  </physicalDescription>
+  <identifier type="FileName">NCC_0040_0064</identifier>
+  <identifier type="Legacy">CRH058; DCRH 058; cr013</identifier>
+  <accessCondition xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <accessCondition displayLabel="Usage Statement">This image is part of the Durham Herald Co. Newspaper Photograph Collection at Wilson Library at the University of North Carolina at Chapel Hill.  Permission to use this image must be obtained from Wilson Library.</accessCondition>
+  <note type="preferred citation" displayLabel="Preferred Citation">Item description, identifier (if applicable), Box and Folder information. Durham Civil Rights Heritage Project (NCC.0040). North Carolina Collection, Durham County Library, NC.</note>
+</mods>
