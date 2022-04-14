@@ -89,7 +89,7 @@ def convert_xml():
 
             # the filenames of the resulting xml files will be based on the <identifier> element
             # edit the specific element or attribute if necessary
-            identifier = elem.find('{http://www.loc.gov/mods/v3}identifier[@type="FileName"]').text
+            identifier = elem.find('{http://www.loc.gov/mods/v3}identifier[@type="Identifier"]').text
             filename = format(identifier + ".xml")
             completename = os.path.join(save_directory, filename)
 
